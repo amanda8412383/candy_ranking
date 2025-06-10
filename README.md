@@ -6,8 +6,17 @@ Den Datensatz (inkl. einer kurzen Beschreibung) findest Du unter:
 https://github.com/fivethirtyeight/data/tree/master/candy-power-ranking
 
 # Annahmen: 
-1. Die Daten zeigen alle langfristig verkauften Süßigkeiten anderer Marken bei Lidl.
-2. Die Zutaten neue Produkten entspricht die Analyse, das heißt sie wird keine extra Zutaten/Fomat haben. (e.g. kreme, Eis)
-3. Die EigenMarke hier ist nur Sondey. Bon Gelati, J.D. Gross, JET GUM, Fin Carré
-und Crownfield sind nicht ein Teil davon. Außerdem gehe ich davon aus, dass link enthält https://de.openfoodfacts.org/facets/marken/sondey
+
+1. Die Daten enthalten ausschließlich langfristig verkaufte Süßwaren anderer Marken bei Lidl.
+
+2. Die Zutaten zukünftiger Produkte entsprechen der Struktur der analysierten Produkte. Es wird davon ausgegangen, dass keine neuen Zutaten/Formate hinzukommen (z. B. Cremefüllung, Eisvarianten).
+
+3. Als Eigenmarke wird in dieser Analyse ausschließlich Sondey betrachtet. Die Marken Bon Gelati, J.D. Gross, JET GUM, Fin Carré und Crownfield zählen nicht dazu. Es wird zudem davon ausgegangen, dass der folgende Link alle Sondey-Produkte enthält: https://de.openfoodfacts.org/facets/marken/sondey
+
+
+
+
+
+
+
 
